@@ -1,11 +1,9 @@
 ## Hi 👋 My name is Damilola Owonibi
-🔥🔥🔥 Fullstack Developer (Drop a follow to keep up with work updates)
-I'm a full stack developer, i enjoy with go and typescript to build  webapps.
+### 🔥🔥🔥 Fullstack Developer (Drop a follow to keep up with work updates)
+I'm a full stack developer, I enjoy working with go and typescript to build  webapps.
 
 🌍 I'm based in Nigeria / Abuja
-<!-- 🖥️ See my portfolio at afullsnack.dev -->
 ✉️ You can contact me at damilola.owonibi@gmail.com
-<!-- 🚀 I'm currently working on Wrap CBDC, Flintapi, Sonergy -->
 🧠 I'm learning Next.js react framework for web development
 🤝 I'm open to collaborating on typescript, go, or c++ projects
 
