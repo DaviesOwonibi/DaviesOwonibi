@@ -2,9 +2,9 @@
 ### 🔥🔥🔥 Fullstack Developer (Drop a follow to keep up with work updates)
 I'm a full stack developer, I enjoy working with go and typescript to build  webapps.
 
-🌍 I'm based in Nigeria / Abuja
-✉️ You can contact me at damilola.owonibi@gmail.com
-🧠 I'm learning Next.js react framework for web development
+🌍 I'm based in Nigeria / Abuja <br>
+✉️ You can contact me at damilola.owonibi@gmail.com <br>
+🧠 I'm learning Next.js react framework for web development <br>
 🤝 I'm open to collaborating on typescript, go, or c++ projects
 
 
