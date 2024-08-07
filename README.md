@@ -1,5 +1,5 @@
 ## Hi 👋 My name is Damilola Owonibi
-### 🔥🔥🔥 Fullstack Developer (Drop a follow to keep up with work updates)
+### 🔥🔥🔥 Fullstack Developer
 I'm a full stack developer, I enjoy working with go and typescript to build  webapps.
 
 🌍 I'm based in Nigeria / Abuja <br>
